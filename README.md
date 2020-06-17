@@ -8,3 +8,5 @@
 **comming soon proper linking of all inspiration sources**
 
 **coming soon My take on the movie lens recoomendation model**
+
+all corrections and suggestions are welcome
