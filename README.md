@@ -1,4 +1,4 @@
-# Learning-data-science
+# My take on.....
  This is a work in progress as I continue to find and study interesting and well documented projects, i will continue to modify the code with new understanding and insights and will try to continuously link inspiration sources for different aspects of the projects 
 
 * **(project 1) My take on the classic titanic classification problem**
